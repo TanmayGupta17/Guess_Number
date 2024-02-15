@@ -1,6 +1,6 @@
 # Guess_Number
 
-**Features**
+## Features
 1. Random Number Generation: The game randomly generates a target number within a specified range.
 2. Input Validation: The game validates user input to ensure it's within the specified range and of the correct data type.
 3. Feedback System: Provides feedback to the player after each guess, guiding them to find the target number efficiently.
