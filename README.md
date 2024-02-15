@@ -1,5 +1,8 @@
 # Guess_Number
 
+## Overview
+Welcome to the "Guess the Number" game implemented in Java! This console-based game is designed to entertain and challenge players as they attempt to guess a randomly generated target number within a specified range.
+
 ## Features
 1. Random Number Generation: The game randomly generates a target number within a specified range.
 2. Input Validation: The game validates user input to ensure it's within the specified range and of the correct data type.
